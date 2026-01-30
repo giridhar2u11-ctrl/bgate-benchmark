@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/1146216833.svg)](https://doi.org/10.5281/zenodo.18435587)
 # B-GATE Benchmark (v1)
 **B-GATE** stands for **Blockchain Governance & Adoption Trustworthiness Evaluation**.  
 This repository provides a **reproducible benchmark** that scores whether a blockchain deployment scenario is **adoptable** and **governable**.
