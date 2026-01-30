@@ -1,0 +1,42 @@
+version: "1.0"
+name: "B-GATE: Blockchain Governance & Adoption Trustworthiness Evaluation"
+scores:
+  ARS:
+    description: "Adoption Readiness Score"
+    weight: 0.35
+    dimensions:
+      use_case_fit: {weight: 0.30}
+      org_capability: {weight: 0.30}
+      economic_viability: {weight: 0.25}
+      stakeholder_alignment: {weight: 0.15}
+
+  GQS:
+    description: "Governance Quality Score"
+    weight: 0.45
+    dimensions:
+      decision_rights: {weight: 0.18}
+      dispute_resolution: {weight: 0.16}
+      security_compliance: {weight: 0.18}
+      data_governance: {weight: 0.18}
+      upgrade_governance: {weight: 0.18}
+      observability: {weight: 0.12}
+
+  TSS:
+    description: "Trustworthiness & Sustainability Score"
+    weight: 0.20
+    dimensions:
+      operational_resilience: {weight: 0.35}
+      incentive_sustainability: {weight: 0.25}
+      ethics_legitimacy: {weight: 0.20}
+      ecosystem_dependence_risk: {weight: 0.20}
+
+penalties:
+  missing_incident_response: {points: 10}
+  missing_upgrade_policy: {points: 10}
+  missing_dispute_process: {points: 10}
+  unclear_decision_rights: {points: 10}
+
+thresholds:
+  green: 75
+  yellow: 55
+  red: 0

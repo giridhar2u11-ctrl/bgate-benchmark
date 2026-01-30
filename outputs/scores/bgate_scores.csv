@@ -1,0 +1,41 @@
+scenario_id,ARS,GQS,TSS,bgate_index,penalty_points,rating,penalty_reasons
+S001,38.89,60.4,51.09,41.01,10.0,RED (High governance/adoption risk),Missing incident-response governance
+S002,36.66,51.1,69.86,39.8,10.0,RED (High governance/adoption risk),Missing upgrade/patch governance
+S003,44.48,55.8,69.22,44.52,10.0,RED (High governance/adoption risk),Missing dispute-resolution governance
+S004,42.55,50.8,61.13,29.98,20.0,RED (High governance/adoption risk),Missing incident-response governance; Missing upgrade/patch governance
+S005,48.43,60.9,61.31,46.62,10.0,RED (High governance/adoption risk),Missing dispute-resolution governance
+S006,38.44,28.2,55.06,17.16,20.0,RED (High governance/adoption risk),Missing upgrade/patch governance; Missing dispute-resolution governance
+S007,39.78,64.6,64.24,45.84,10.0,RED (High governance/adoption risk),Missing upgrade/patch governance
+S008,32.32,51.9,57.86,26.24,20.0,RED (High governance/adoption risk),Missing incident-response governance; Missing dispute-resolution governance
+S009,43.61,72.1,59.43,59.59,0.0,YELLOW (Moderate governance/adoption risk),None
+S010,43.44,36.1,46.66,10.78,30.0,RED (High governance/adoption risk),Missing incident-response governance; Missing upgrade/patch governance; Unclear decision rights
+S011,38.39,38.2,61.91,23.01,20.0,RED (High governance/adoption risk),Missing incident-response governance; Missing upgrade/patch governance
+S012,47.39,57.7,50.72,42.7,10.0,RED (High governance/adoption risk),Unclear decision rights
+S013,49.47,52.0,64.94,33.7,20.0,RED (High governance/adoption risk),Missing upgrade/patch governance; Unclear decision rights
+S014,40.07,51.3,74.98,32.1,20.0,RED (High governance/adoption risk),Missing upgrade/patch governance; Missing dispute-resolution governance
+S015,45.79,53.5,50.12,40.12,10.0,RED (High governance/adoption risk),Missing incident-response governance
+S016,40.07,57.4,66.58,43.17,10.0,RED (High governance/adoption risk),Unclear decision rights
+S017,54.59,70.6,59.51,62.78,0.0,YELLOW (Moderate governance/adoption risk),None
+S018,33.46,57.1,61.25,39.65,10.0,RED (High governance/adoption risk),Unclear decision rights
+S019,46.56,57.1,61.56,44.3,10.0,RED (High governance/adoption risk),Missing upgrade/patch governance
+S020,39.72,52.9,59.2,29.55,20.0,RED (High governance/adoption risk),Missing incident-response governance; Unclear decision rights
+S021,38.57,50.2,64.36,28.96,20.0,RED (High governance/adoption risk),Missing incident-response governance; Missing upgrade/patch governance
+S022,43.06,35.4,58.42,22.69,20.0,RED (High governance/adoption risk),Missing dispute-resolution governance; Unclear decision rights
+S023,37.06,57.4,67.83,42.37,10.0,RED (High governance/adoption risk),Missing upgrade/patch governance
+S024,46.32,61.6,61.48,46.23,10.0,RED (High governance/adoption risk),Unclear decision rights
+S025,43.65,49.6,57.48,39.09,10.0,RED (High governance/adoption risk),Missing upgrade/patch governance
+S026,42.57,61.6,67.37,46.09,10.0,RED (High governance/adoption risk),Unclear decision rights
+S027,43.58,60.1,57.61,43.82,10.0,RED (High governance/adoption risk),Missing upgrade/patch governance
+S028,51.54,47.1,55.46,30.33,20.0,RED (High governance/adoption risk),Missing incident-response governance; Missing dispute-resolution governance
+S029,44.25,69.4,51.46,47.01,10.0,RED (High governance/adoption risk),Missing incident-response governance
+S030,53.39,58.9,55.74,46.34,10.0,RED (High governance/adoption risk),Missing upgrade/patch governance
+S031,45.24,70.9,65.91,60.92,0.0,YELLOW (Moderate governance/adoption risk),None
+S032,44.72,54.1,46.97,29.39,20.0,RED (High governance/adoption risk),Missing incident-response governance; Unclear decision rights
+S033,47.37,67.0,64.8,49.69,10.0,RED (High governance/adoption risk),Missing upgrade/patch governance
+S034,39.55,51.6,65.59,40.18,10.0,RED (High governance/adoption risk),Missing dispute-resolution governance
+S035,38.16,66.1,74.68,58.04,0.0,YELLOW (Moderate governance/adoption risk),None
+S036,43.45,54.9,56.83,31.28,20.0,RED (High governance/adoption risk),Missing incident-response governance; Missing dispute-resolution governance
+S037,39.66,41.8,75.43,27.78,20.0,RED (High governance/adoption risk),Missing upgrade/patch governance; Unclear decision rights
+S038,45.5,73.6,57.05,60.45,0.0,YELLOW (Moderate governance/adoption risk),None
+S039,47.47,63.1,57.71,46.55,10.0,RED (High governance/adoption risk),Missing incident-response governance
+S040,47.23,63.1,54.09,45.74,10.0,RED (High governance/adoption risk),Missing upgrade/patch governance
