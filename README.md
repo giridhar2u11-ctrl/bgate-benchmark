@@ -18,6 +18,9 @@ Organizations often adopt blockchain for transparency and trust, but “trust”
 
 **B-GATE converts these questions into standardized scores** so that different governance designs can be compared objectively.
 
+<img width="2094" height="570" alt="mermaid-drawing (1)" src="https://github.com/user-attachments/assets/d43616e9-86ec-40a4-b9ef-f94dc920ba50" />
+
+
 ---
 
 ## What this project delivers
